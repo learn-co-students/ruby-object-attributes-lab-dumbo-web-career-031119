@@ -17,6 +17,6 @@ class Person
     @job = job 
   end 
   
-binding.pry 
+# binding.pry 
 
 end 
